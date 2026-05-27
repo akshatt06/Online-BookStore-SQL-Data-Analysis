@@ -91,7 +91,7 @@ Beginner-Friendly Questions:
 
 
 
--- Intermediate to Advance Questions : 
+Intermediate to Advance Questions : 
 
 
 -- 1) Retrieve the total number of books sold for each genre:
